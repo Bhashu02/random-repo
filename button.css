@@ -24,3 +24,8 @@ button:hover {
     transform: translateY(-0.30em);
     box-shadow: 0 0.5em 0.5em -0.4em #fdffb6;
 }
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
